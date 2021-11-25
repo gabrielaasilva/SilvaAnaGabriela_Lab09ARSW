@@ -74,5 +74,5 @@ Es neceario para el almacenamiento de los servicios que ofrece un Function App, 
     ![](https://github.com/gabrielaasilva/SilvaAnaGabriela_Lab09ARSW/blob/master/images/Imagenes%20Readme/Despliegue.bmp)
     ![](https://github.com/gabrielaasilva/SilvaAnaGabriela_Lab09ARSW/blob/master/images/Imagenes%20Readme/Código.bmp)
    - Prueba
-    ![]()
+    ![](https://github.com/gabrielaasilva/SilvaAnaGabriela_Lab09ARSW/blob/master/images/Imagenes%20Readme/Prueba.png)
   
