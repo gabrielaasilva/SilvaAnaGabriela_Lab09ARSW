@@ -62,16 +62,17 @@ Es neceario para el almacenamiento de los servicios que ofrece un Function App, 
 
 * ¿Cómo funciona el sistema de facturación de las Function App?
 
-![]()
-![]()
+![Consumo](https://github.com/gabrielaasilva/SilvaAnaGabriela_Lab09ARSW/blob/master/images/Imagenes%20Readme/consumo.bmp)
+![Premium](https://github.com/gabrielaasilva/SilvaAnaGabriela_Lab09ARSW/blob/master/images/Imagenes%20Readme/premium.bmp)
 
 * Informe
   - Function App
-    ![]()
+    ![](https://github.com/gabrielaasilva/SilvaAnaGabriela_Lab09ARSW/blob/master/images/Imagenes%20Readme/Function%20App.bmp)
   - Extensión VS
-    ![]()
+    ![](https://github.com/gabrielaasilva/SilvaAnaGabriela_Lab09ARSW/blob/master/images/Imagenes%20Readme/Extensión.png)
   - Despliegue Azure
-    ![]()
+    ![](https://github.com/gabrielaasilva/SilvaAnaGabriela_Lab09ARSW/blob/master/images/Imagenes%20Readme/Despliegue.bmp)
+    ![](https://github.com/gabrielaasilva/SilvaAnaGabriela_Lab09ARSW/blob/master/images/Imagenes%20Readme/Código.bmp)
    - Prueba
     ![]()
   
